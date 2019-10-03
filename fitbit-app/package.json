@@ -1,0 +1,28 @@
+{
+  "fitbit": {
+    "appUUID": "515c32b1-2b2f-4ea3-9c73-1b293867671f",
+    "appType": "app",
+    "appDisplayName": "HR Monitor",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "run_background",
+      "access_internet",
+      "access_activity",
+      "access_exercise"
+    ],
+    "buildTargets": [
+      "higgs"
+    ],
+    "i18n": {
+      "en": {
+        "name": "HR Monitor"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.1.0"
+  }
+}

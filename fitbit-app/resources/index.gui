@@ -1,0 +1,6 @@
+<svg class="background">
+  <image id="heart" href="images/1.png" x="100" y="60" width="40%" height="40%"/>
+  <text id="bpm" class="text" x="135" y="190">...</text>
+  <text id="unit" class="text" x="195" y="190">bpm</text>
+  <circle id="circItem" cx="93%" cy="90%" r="10" fill="grey"/>
+</svg>
