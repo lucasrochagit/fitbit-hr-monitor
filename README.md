@@ -42,4 +42,4 @@ Copy the content of the `fitbit-app` path and paste into a blank project using t
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/lucasrochagit/fitbit-hr-monitor/blob/master/README.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/lucasrochagit/fitbit-hr-monitor/blob/master/LICENSE) file for details
